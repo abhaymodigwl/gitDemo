@@ -1,4 +1,4 @@
-# demo
+# Demo
 
 this is a repo for git and github learning
 
